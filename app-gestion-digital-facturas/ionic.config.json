@@ -1,0 +1,7 @@
+{
+  "name": "app-gestion-digital-facturas",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular-standalone"
+}
